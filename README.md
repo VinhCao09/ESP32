@@ -1,5 +1,5 @@
 
-# PIC16F887 Microprocessor Subject HCMUTE
+# ESP32 Code Synthesis
 
 Coding by Vinh Cao.
 Language programing: C++ (Arduino IDE)
