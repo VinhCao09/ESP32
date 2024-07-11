@@ -34,3 +34,26 @@ Operating temperature range− −40 − 85 degrees Celsius
 Operating Voltage− 3.3V
 
 Operating Current− 80 mA (average)
+
+
+# 💫About Me :
+Hello 👋I am Vinh. I'm studying HCMC University of Technology and Education
+
+**Major:** Electronics and Telecommunication
+
+**Skill:** 
+
+*- Microcontroller:* ESP32/8266 - ARDUINO - PIC - Raspberry Pi - PLC Rockwell Allen Bradley
+
+*- Programming languages:* C/C++/HTML/CSS/PHP/SQL and
+related Frameworks (Bootstrap)
+
+*- Communication Protocols:* SPI, I2C, UART, CAN
+
+*- Data Trasmissions:* HTTP, TCP/IP, MQTT
+
+## Authors
+
+- [@my_fb](https://www.facebook.com/vcao.vn)
+- [@my_email](contact@vinhcaodatabase.com)
+
