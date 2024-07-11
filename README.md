@@ -4,8 +4,10 @@
 Coding by Vinh Cao.
 Language programing: C++ (Arduino IDE)
 
-
+The ESP32 is the ESP8266 successor loaded with lots of new features. The ESP32 is a development board that combines Wi-Fi and Bluetooth wireless capabilities, and it’s dual core. It supports a wide variety of peripherals such as: capacitive touch, ADC, DAC, I2C, SPI, UART, I2S, PWM and much more. It is one of the best solutions for DIY Internet of Things Projects and Smart Home Projects.
 ![images](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2022/10/espressif-logo.png?resize=300%2C60&quality=100&strip=all&ssl=1)
+ESP32 Pinout (ver 38pin):
+![images]([https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2022/10/espressif-logo.png?resize=300%2C60&quality=100&strip=all&ssl=1](https://www.upesy.com/cdn/shop/articles/doc-esp32-pinout-reference-wroom-devkit_9db79068-c59c-4142-91f0-bb361d3b7dac.jpg?v=1706553444))
 
 Integrated Crystal− 40 MHz
 
